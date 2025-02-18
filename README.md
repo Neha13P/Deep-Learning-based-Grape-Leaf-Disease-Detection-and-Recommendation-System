@@ -25,7 +25,7 @@ Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
    
 Source: https://www.kaggle.com/code/vasudevkrishna385964/dcgan-final
 
-Project Workflow
+Project Workflow:
 
 1. Model Training (Grape_Disease_Prediction.ipynb)
    
@@ -50,6 +50,7 @@ Treatment measures
 Preventive measures
 
 Monitoring guidelines
+
 
 How to Run
 
