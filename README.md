@@ -1,7 +1,9 @@
 Grape Leaf Disease Prediction with GAN-Augmented Dataset
+
 This project focuses on grape leaf disease detection using a deep learning(GAN + ResNet) model. The dataset used includes both the original dataset from Kaggle and GAN-generated images to improve model performance through augmentation.
 
 Dataset Sources
+
 1. Original Dataset
 Name: Grape Plant from Plant Village Dataset
 Link: https://www.kaggle.com/datasets/zienabesam/grape-plant-from-plant-village-dataset
