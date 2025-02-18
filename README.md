@@ -27,12 +27,14 @@ Source: https://www.kaggle.com/code/vasudevkrishna385964/dcgan-final
 
 Project Workflow
 
-1. Model Training (Grape_Disease_Prediction.ipynb)-
+1. Model Training (Grape_Disease_Prediction.ipynb)
+   
 The model is trained on the original dataset and GAN-augmented images.
 
 After training, the model is saved as fused_model.h5.
 
-2. Model Deployment (Model_testing.ipynb)-
+2. Model Deployment (Model_testing.ipynb)
+   
 The trained model (fused_model.h5) is imported for testing.
 
 A Gradio-based UI is built for user interaction.
@@ -50,8 +52,11 @@ Preventive measures
 Monitoring guidelines
 
 How to Run
+
 1️⃣ Train the model in Grape_Disease_Prediction.ipynb
+
 2️⃣ Save the model as fused_model.h5
+
 3️⃣ Open Model_testing.ipynb, load the model, and run the Gradio UI
 
 🚀 Now, you can upload grape leaf images and receive disease predictions along with AI-generated reports!
