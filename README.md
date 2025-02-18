@@ -64,6 +64,7 @@ How to Run
 
 Interface Output:
 ![InterfaceOutput](https://github.com/user-attachments/assets/21dfad47-c035-42e4-9b61-b4ce8cb7aafc)
+
 Final Look of the Disease Detection and Recommendation System:
 ![Screenshot 2024-12-27 053730 1](https://github.com/user-attachments/assets/e2a433c7-13be-4b17-af57-5857a45dc5e2)
 ![Screenshot 2024-12-27 053644 1](https://github.com/user-attachments/assets/fc9b84a3-ffbf-4b47-9cae-eaf78917347c)
