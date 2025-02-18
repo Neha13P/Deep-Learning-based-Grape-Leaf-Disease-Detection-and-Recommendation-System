@@ -62,7 +62,7 @@ How to Run
 
 3️⃣ Open Model_testing.ipynb, load the model, and run the Gradio UI
 
-🚀 Now, you can upload grape leaf images and receive disease predictions along with AI-generated reports!(The jpg and png images uploaded in the repository were used to test the system.)
+🚀 Now, you can upload grape leaf images and receive disease predictions along with AI-generated reports! (The jpg and png images uploaded in the repository were used to test the system.)
 
 Interface Output:
 ![InterfaceOutput](https://github.com/user-attachments/assets/21dfad47-c035-42e4-9b61-b4ce8cb7aafc)
