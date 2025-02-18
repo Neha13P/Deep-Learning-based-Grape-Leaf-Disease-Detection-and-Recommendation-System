@@ -1,6 +1,6 @@
 Grape Leaf Disease Prediction with GAN-Augmented Dataset
 
-![Esca_measles(interface)](https://github.com/user-attachments/assets/f8b41a83-cc15-45e1-ba85-4430b9291ff1)
+![Esca_measles(interface)](https://github.com/user-attachments/assets/1484d9a6-b56d-42fb-9fcd-018747d3853b)
 
 This project focuses on grape leaf disease detection using a deep learning(GAN + ResNet) model. The dataset used includes both the original dataset from Kaggle and GAN-generated images to improve model performance through augmentation.
 
@@ -68,5 +68,6 @@ Interface Output:
 ![InterfaceOutput](https://github.com/user-attachments/assets/21dfad47-c035-42e4-9b61-b4ce8cb7aafc)
 
 Final Look of the Disease Detection and Recommendation System:
-![Screenshot 2024-12-27 053730 1](https://github.com/user-attachments/assets/e2a433c7-13be-4b17-af57-5857a45dc5e2)
-![Screenshot 2024-12-27 053644 1](https://github.com/user-attachments/assets/fc9b84a3-ffbf-4b47-9cae-eaf78917347c)
+![Gradio-diseaseAnalysisReport](https://github.com/user-attachments/assets/7107e911-4c1e-4552-9392-6b5ec92ef84b)
+![GradioInterface](https://github.com/user-attachments/assets/c62a1a07-7046-41f2-99d8-efde255ca9e8)
+
