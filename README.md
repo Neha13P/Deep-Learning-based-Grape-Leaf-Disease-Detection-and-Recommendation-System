@@ -1,5 +1,7 @@
 Grape Leaf Disease Prediction with GAN-Augmented Dataset
 
+![Esca_measles(interface)](https://github.com/user-attachments/assets/f8b41a83-cc15-45e1-ba85-4430b9291ff1)
+
 This project focuses on grape leaf disease detection using a deep learning(GAN + ResNet) model. The dataset used includes both the original dataset from Kaggle and GAN-generated images to improve model performance through augmentation.
 
 Dataset Sources
